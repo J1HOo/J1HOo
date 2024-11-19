@@ -28,6 +28,6 @@
 ![Jira](https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white)
 
 # Connect
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:business.j1ho@gmail.com)](mailto:business.j1ho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:business.j1ho@gmail.com)
 
 </div>
