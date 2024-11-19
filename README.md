@@ -23,14 +23,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J1HOo&theme=buefy&layout=compact&langs_count=10)](https://github.com/J1HOo/J1HOo/edit/main/README.md)
 
-<br>
-<br>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-<br>
-<br>
-
 # Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -43,6 +35,14 @@
 
 # Connect
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:business.j1ho@gmail.com)
+
+<br>
+<br>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<br>
+<br>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&color=gradient&customColorList=0,2,2,5,30&height=200)
 
