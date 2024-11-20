@@ -1,8 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=100&pause=1000&color=22F747&background=000000&center=true&vCenter=true&width=1080&height=200&lines=Hello+World...!)](https://git.io/typing-svg)
-
-<br>
-<br>
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=100&pause=1000&color=22F747&background=000000&center=true&vCenter=true&width=1000&height=140&lines=Hello+World...!)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -35,13 +31,10 @@
 
 <br>
 <br>
+<br>
 
+# 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-<br>
-<br>
-
-![footer](https://capsule-render.vercel.app/api?section=footer&color=gradient&customColorList=0,2,2,5,30&height=200)
 
 </div>
 
