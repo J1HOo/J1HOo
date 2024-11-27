@@ -16,35 +16,35 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="70" height="50" />
             <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="70" height="50" />
             <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="70" height="50" />
             <br>TypeScript
     </td>
   </tr>
   <tr>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+        <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML" />
       <br>HTML
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="css" />
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+        <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="tailwind" />
       <br>Tailwind
     </td>
   </tr>
     <tr>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="70" height="50" />
                 <br>React
         </td>
         <td align="center" width="96">
