@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+ <img width="100%" height="200px" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=J1HO&nbsp;&nbsp;&nbsp;&nbsp;&fontAlign=80&fontAlignY=40&color=0:2ebf91,100:8360c3&fontColor=ffffff&animation=twinkling"/>
 
 <a href="https://github.com/J1HOo/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J1HOo&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=nuber-eats-frontend-project" width=38% />
@@ -12,7 +12,7 @@
 </a>
 
 
-# Lifelong Student of My Tech Stack
+# 💻 Lifelong Student of My Tech Stack
 <table>
   <tr>
     <td align="center" width="96">
@@ -58,7 +58,7 @@
     </tr>
 </table>
 
-# Tools
+# 🔧 Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
@@ -68,7 +68,15 @@
 ![Slack](https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white)
 
+# Velog
+<div height="10px"/>
+<div>
+<a href="https://velog.io/@smlobw/posts">
+  <img height="260px" src="https://velog-github-badge.vercel.app/badge/smlobw?theme=dark&posts=5"/>
+</a>
+</div>
+
 <img src="https://github.com/J1HOo/J1HOo/blob/output/github-snake-dark.svg" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+ <img width="100%" height="200px" src="https://capsule-render.vercel.app/api?type=waving&height=200&nbsp;&nbsp;&nbsp;&nbsp;&fontAlign=80&fontAlignY=40&color=0:2ebf91,100:8360c3&fontColor=ffffff&animation=twinkling&section=footer"/>
 </div>
