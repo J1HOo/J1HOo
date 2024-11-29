@@ -68,7 +68,7 @@
 ![Slack](https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white)
 
-# Velog
+# 🖋 Velog
 <div height="10px"/>
 <div>
 <a href="https://velog.io/@smlobw/posts">
