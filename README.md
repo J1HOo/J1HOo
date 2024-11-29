@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML" />
+        <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="html" />
       <br>HTML
     </td>
     <td align="center" width="96">
@@ -39,7 +39,7 @@
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="tailwind" />
-      <br>Tailwind
+      <br>TailwindCSS
     </td>
   </tr>
     <tr>
@@ -56,6 +56,16 @@
               <br>Spring
     </td> -->
     </tr>
+<!--  <tr>
+      <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=oralce" width="48" height="48" alt="oracle" />
+                  <br>Oracle
+        </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="70" height="50" />
+            <br>MySQL
+    </td>
+ </tr> -->
 </table>
 
 # 🔧 Tools
