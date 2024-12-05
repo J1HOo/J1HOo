@@ -54,16 +54,16 @@
 <!--         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="spring" />
               <br>Spring
-    </td> -->
+    </td>
     </tr>
-<!--  <tr>
-      <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=oralce" width="48" height="48" alt="oracle" />
-                  <br>Oracle
-        </td>
+ <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="70" height="50" />
             <br>MySQL
+    </td>
+     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="70" height="50" />
+            <br>Doker
     </td>
  </tr> -->
 </table>
@@ -71,8 +71,8 @@
 # 🔧 Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white&link=linkto:https://tungsten-seed-571.notion.site/Jiho-Park-822b0f538a2d432882edbc9cd2b586cd)
 ![Slack](https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
