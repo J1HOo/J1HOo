@@ -76,6 +76,10 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="70" height="50" />
         <br />Oracle
       </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="70" height="50" />
+        <br />DBeaver
+      </td>    
     </tr>
   </table>
 
