@@ -27,7 +27,7 @@
   <h1>💻 Lifelong Student of My Tech Stack</h1>
   <p>계속해서 열심히 학습하며 활용하고 있는 기술 스택들입니다.</p>
   
-  <h3>📚 FrontEnd</h3>
+  <h3>🌐 FrontEnd</h3>
   <table>
     <tr>
       <td align="center" width="96">
@@ -65,7 +65,7 @@
     </tr>
   </table>
 
-  <h3>📚 BackEnd</h3>
+  <h3>🗄️ BackEnd</h3>
   <table>
     <tr>
       <td align="center" width="96">
