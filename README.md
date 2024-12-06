@@ -27,7 +27,7 @@
   <h1>💻 Lifelong Student of My Tech Stack</h1>
   <p>계속해서 열심히 학습하며 활용하고 있는 기술 스택들입니다.</p>
   
-  <h3>📚 Tech Stack Overview</h3>
+  <h3>📚 FrontEnd</h3>
   <table>
     <tr>
       <td align="center" width="96">
@@ -62,10 +62,20 @@
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="70" height="50" />
         <br />React
       </td>
+    </tr>
+  </table>
+
+  <h3>📚 BackEnd</h3>
+  <table>
+    <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="nestjs" />
         <br />NestJS
       </td>
+<!--       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="spring" />
+        <br />Spring
+      </td>     -->
     </tr>
   </table>
 
@@ -82,6 +92,16 @@
       </td>    
     </tr>
   </table>
+  
+  <h3>🚢 Container</h3>
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="70" height="50" />
+        <br />Docker
+      </td>
+    </tr>
+  </table>
 
   <h3>🔧 Tools</h3>
   <table>
@@ -93,16 +113,6 @@
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="icon" width="70" height="50" />
         <br />IntelliJ
-      </td>
-    </tr>
-  </table>
-
-  <h3>🚢 Container</h3>
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="70" height="50" />
-        <br />Docker
       </td>
     </tr>
   </table>
