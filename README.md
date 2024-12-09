@@ -27,7 +27,7 @@
   <h1>💻 Lifelong Student of My Tech Stack</h1>
   <p>계속해서 열심히 학습하며 활용하고 있는 기술 스택들입니다.</p>
   
-  <h3>🌐 FrontEnd</h3>
+  <h3>🌐 Languages</h3>
   <table>
     <tr>
       <td align="center" width="96">
@@ -52,21 +52,21 @@
         <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="css" />
         <br />CSS
       </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="tailwind" />
-        <br />TailwindCSS
-      </td>
     </tr>
-    <tr>
+  </table>
+
+  <h3>⚙️ Frameworks / Libraries </h3>
+  <table>
+        <tr>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="70" height="50" />
         <br />React
       </td>
+         <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="tailwind" />
+        <br />TailwindCSS
+      </td>       
     </tr>
-  </table>
-
-  <h3>🗄️ BackEnd</h3>
-  <table>
     <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="nestjs" />
