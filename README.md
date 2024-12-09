@@ -27,7 +27,7 @@
   <h1>💻 Lifelong Student of My Tech Stack</h1>
   <p>계속해서 열심히 학습하며 활용하고 있는 기술 스택들입니다.</p>
   
-  <h3>🌐 Languages</h3>
+  <h3>🌐 Language</h3>
   <table>
     <tr>
       <td align="center" width="96">
@@ -55,7 +55,7 @@
     </tr>
   </table>
 
-  <h3>⚙️ Frameworks / Libraries </h3>
+  <h3>📕 Framework & Librarie </h3>
   <table>
         <tr>
       <td align="center" width="96">
@@ -92,18 +92,8 @@
       </td>    
     </tr>
   </table>
-  
-  <h3>🚢 Container</h3>
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="70" height="50" />
-        <br />Docker
-      </td>
-    </tr>
-  </table>
 
-  <h3>🔧 Tools</h3>
+  <h3>⚙️ Tool</h3>
   <table>
     <tr>
       <td align="center" width="96">
@@ -115,9 +105,15 @@
         <br />IntelliJ
       </td>
     </tr>
+     <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="70" height="50" />
+        <br />Docker
+      </td>
+    </tr>   
   </table>
 
-  <h3>🤝 Collaboration Tools</h3>
+  <h3>🤝 Collaboration Tool</h3>
   <table>
     <tr>
       <td align="center" width="96">
