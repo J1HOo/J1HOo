@@ -90,6 +90,10 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="70" height="50" />
         <br />DBeaver
       </td>    
+        <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="70" height="50" />
+        <br />MySQL
+      </td>
     </tr>
   </table>
 
