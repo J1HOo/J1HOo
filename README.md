@@ -72,10 +72,10 @@
         <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="nestjs" />
         <br />NestJS
       </td>
-<!--       <td align="center" width="96">
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="spring" />
         <br />Spring
-      </td>     -->
+      </td>    
     </tr>
   </table>
 
