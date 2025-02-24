@@ -74,7 +74,7 @@
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="spring" />
-        <br />Spring
+        <br />SpringBoot
       </td>    
     </tr>
   </table>
