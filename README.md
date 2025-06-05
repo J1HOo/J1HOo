@@ -139,7 +139,6 @@
     </tr>
   </table>
 
-<!--
   <h1>🖋 Velog</h1>
   <div>
     <a href="https://velog.io/@smlobw/posts">
@@ -147,7 +146,7 @@
     </a>
   </div>
 
-  <img src="https://github.com/J1HOo/J1HOo/blob/output/github-snake-dark.svg" width="100%" /> -->
+  <img src="https://github.com/J1HOo/J1HOo/blob/output/github-snake-dark.svg" width="100%" />
   <img
     width="100%"
     height="200px"
