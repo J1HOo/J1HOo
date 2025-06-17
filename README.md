@@ -149,12 +149,12 @@
 
   <h1>🖋 Velog</h1>
   <div>
-    <a href="https://velog.io/@smlobw/posts">
-      <img height="260px" src="https://velog-github-badge.vercel.app/badge/smlobw?theme=dark&posts=5" />
+    <a href="https://velog.io/@amlobw==/posts">
+      <img height="260px" src="https://velog-github-badge.vercel.app/badge/amlobw==?theme=dark&posts=5" />
     </a>
   </div>
 
-  <img src="https://github.com/J1HOo/J1HOo/blob/output/github-snake-dark.svg" width="100%" />
+  <img-hide src="https://github.com/J1HOo/J1HOo/blob/output/github-snake-dark.svg" width="100%" />
   <img
     width="100%"
     height="200px"
