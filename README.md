@@ -65,7 +65,11 @@
          <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="tailwind" />
         <br />TailwindCSS
-      </td>       
+      </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="70" height="50" />
+        <br />StoryBook
+      </td>  
     </tr>
     <tr>
       <td align="center" width="96">
@@ -93,6 +97,10 @@
         <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="70" height="50" />
         <br />MySQL
+      </td>
+        <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="70" height="50" />
+        <br />PostgreSQL
       </td>
     </tr>
   </table>
