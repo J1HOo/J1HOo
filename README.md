@@ -149,8 +149,8 @@
 
   <h1>🖋 Velog</h1>
   <div>
-    <a href="https://velog.io/@amlobw==/posts">
-      <img height="260px" src="https://velog-github-badge.vercel.app/badge/smlobw?theme=dark&posts=5" />
+    <a href="https://velog.io/@smlobw/posts">
+      <img height="260px" src="https://velog-github-badge.vercel.app/badge/amlobw==?theme=dark&posts=5" />
     </a>
   </div>
 
